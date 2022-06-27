@@ -1,4 +1,6 @@
-# challenge #01/**
+# Getting Started with Create React App
+
+/**
 Challenge: Project setup
 
 - Create a `components` folder
